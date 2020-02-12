@@ -1,0 +1,9 @@
+C:\Users\Windows\source\repos\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe.config
+C:\Users\Windows\source\repos\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\Windows\source\repos\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\Windows\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.Form1.resources
+C:\Users\Windows\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\Windows\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.exe
+C:\Users\Windows\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.pdb
